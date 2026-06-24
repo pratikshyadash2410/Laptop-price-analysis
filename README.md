@@ -10,11 +10,11 @@ This project explores the factors influencing laptop prices through comprehensiv
 - Develop a machine learning model to predict laptop prices.
   
 # Tech Stack
-• Programming Language: Python
-• Data Analysis: Pandas, NumPy
-• Data Visualization: Matplotlib, Seaborn
-• Machine Learning: Scikit-learn, Linear Regression
-• Development Environment: Jupyter Notebook
+- Programming Language: Python
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, Linear Regression
+- Development Environment: Jupyter Notebook
 
 # Data Preprocessing
 

@@ -70,5 +70,5 @@ The dataset was prepared for analysis through the following preprocessing steps:
 - The Linear Regression model achieved an R² score of 0.77, indicating a strong relationship between laptop specifications and price.
 - Actual versus predicted price comparisons demonstrated the model's capability to estimate laptop prices with reasonable accuracy.
 
-# Project Files 
+
 

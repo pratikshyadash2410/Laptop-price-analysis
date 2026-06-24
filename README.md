@@ -24,22 +24,22 @@ The dataset was prepared for analysis through the following preprocessing steps:
 - Prepared feature and target datasets for model training.
 
 # Analysis Performed
-🏢 Brand Distribution Analysis
+➜ Brand Distribution Analysis
 - Analyzed the distribution of laptop manufacturers across the dataset.
 
-💻 Laptop Type Analysis
+➜ Laptop Type Analysis
 - Examined the frequency of different laptop categories.
 
-🖥️ Operating System Analysis
+➜ Operating System Analysis
 - Explored the distribution of operating systems among laptops.
 
-⚙️ Hardware Component Analysis
+➜ Hardware Component Analysis
 - Investigated CPU manufacturers, GPU manufacturers, and storage configurations.
 
-📱 Display Feature Analysis
+➜ Display Feature Analysis
 - Analyzed touchscreen availability, Retina Display, IPS Panel, and screen resolution distributions.
 
-💰 Feature-Wise Price Analysis
+# Feature-Wise Price Analysis
 
 • Evaluated how laptop prices vary across:
 - Company
@@ -53,7 +53,7 @@ The dataset was prepared for analysis through the following preprocessing steps:
 - IPS Panel
 - Screen Resolution
   
-🤖 Machine Learning Model
+# Machine Learning Model
 - Developed a Linear Regression model to predict laptop prices based on hardware specifications and laptop features.
   
 # Evaluation Metrics

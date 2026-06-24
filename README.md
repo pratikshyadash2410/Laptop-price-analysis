@@ -1,4 +1,4 @@
-# Laptop-price-analysis💻👩‍💻
+# Laptop-price-analysis💻
 
 This project explores the factors influencing laptop prices through comprehensive exploratory data analysis and predictive modeling. The study examines hardware specifications, brand characteristics and display features to understand their impact on laptop pricing and develops a machine learning model for price prediction.
 
@@ -20,12 +20,12 @@ This project explores the factors influencing laptop prices through comprehensiv
 
 The dataset was prepared for analysis through the following preprocessing steps:
 
-• Inspected dataset structure and data types.
-• Handled missing values in storage related features.
-• Converted RAM values from text format to numeric format.
-• Encoded categorical variables using one hot encoding.
-• Transformed binary features into numerical representations.
-• Prepared feature and target datasets for model training.
+- Inspected dataset structure and data types.
+- Handled missing values in storage related features.
+- Converted RAM values from text format to numeric format.
+- Encoded categorical variables using one hot encoding.
+- Transformed binary features into numerical representations.
+- Prepared feature and target datasets for model training.
 
 # Analysis Performed
 🏢 Brand Distribution Analysis
@@ -44,6 +44,7 @@ The dataset was prepared for analysis through the following preprocessing steps:
 - Analyzed touchscreen availability, Retina Display, IPS Panel, and screen resolution distributions.
 
 💰 Feature-Wise Price Analysis
+
 • Evaluated how laptop prices vary across:
 - Company
 - Operating System
@@ -64,7 +65,7 @@ The dataset was prepared for analysis through the following preprocessing steps:
 - Brand positioning emerged as a key driver of laptop pricing, with premium manufacturers consistently commanding higher price points.
 - Pricing patterns varied significantly across laptop categories, reflecting differences in performance and market positioning.
 - Hardware specifications, particularly CPU and GPU configurations, demonstrated a strong influence on overall device value.
-- Premium display features such as Touchscreen, Retina Display, and IPS Panels are generally associated with higher-priced devices.
+- Premium display features such as Touchscreen, Retina Display and IPS Panels are generally associated with higher-priced devices.
 - Storage configurations and screen resolutions contribute meaningfully to price variation across laptops.
 - The Linear Regression model achieved an R² score of 0.77, indicating a strong relationship between laptop specifications and price.
 - Actual versus predicted price comparisons demonstrated the model's capability to estimate laptop prices with reasonable accuracy.
